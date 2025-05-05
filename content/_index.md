@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Sonya Dick
+        Sonya Dick's
         Research Group
       image:
         filename: welcome.jpg
