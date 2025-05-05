@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Sonya Dick is a professor of mechanical engineering at South Dakota Mines. Her research interests include ... She leads the SD-CFD lab, which focuses on the use of computational fluid dynamics applied to compressible flow phenomenea including shockwaves, high-energy-density materials, and hydrodynamic instabilities. Her research is relevant to planetary interiors, laboratory astrophysics, and inertial fusion energy, and general compressible flows.
